@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+# icd10 codefiles
+codes.txt
+vcodes.csv
